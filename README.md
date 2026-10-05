@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=00CED1&center=true&vCenter=true&width=1580&lines=ALEX%27S+CAVES+2026;SIX+BIOMES+•+ONE+WORLD;FORGE+•+NEOFORGE+•+FABRIC" alt="Alex's Caves 2026" />
-</div>
+
 
 <br/>
 
